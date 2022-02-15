@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  width: 1442px;
+
   height: 100vh;
   background-color: hsl(212, 45%, 89%);
   display: flex;
@@ -15,7 +15,6 @@ body {
   border-radius: 20px;
   background-color: white;
   display: flex;
-  height: 550px;
   width: 325px;
   flex-direction: column;
 
